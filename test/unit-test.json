@@ -1,0 +1,54 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-06-14T13:14:22.866Z",
+    "end": "2022-06-14T13:14:22.869Z",
+    "duration": 3
+  },
+  "tests": [
+    {
+      "title": "Welcome Message",
+      "fullTitle": "Message Test Welcome Message",
+      "file": "/Users/klebercarvalho/Documents/Github/hello-containers/test/unit-test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Port Test",
+      "fullTitle": "Message Test Port Test",
+      "file": "/Users/klebercarvalho/Documents/Github/hello-containers/test/unit-test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "Welcome Message",
+      "fullTitle": "Message Test Welcome Message",
+      "file": "/Users/klebercarvalho/Documents/Github/hello-containers/test/unit-test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Port Test",
+      "fullTitle": "Message Test Port Test",
+      "file": "/Users/klebercarvalho/Documents/Github/hello-containers/test/unit-test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
